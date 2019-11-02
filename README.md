@@ -1,4 +1,4 @@
-# Command-Line Chat App in Express w/ Pusher ChatKit :message:
+# Command-Line Chat App in Express w/ Pusher ChatKit :speech_balloon:
 
 Created a command-line chat app in Express utilizing the Pusher ChatKit SDK.
 
