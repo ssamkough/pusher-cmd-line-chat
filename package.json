@@ -1,0 +1,31 @@
+{
+  "name": "command-line-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "nodemon client.js",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pusher/chatkit": "^0.7.18",
+    "@pusher/chatkit-client": "^1.13.2",
+    "@pusher/chatkit-server": "^2.1.1",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsdom": "^15.2.0",
+    "ora": "^4.0.2",
+    "prompt": "^1.0.0",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
