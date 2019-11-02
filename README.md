@@ -22,7 +22,7 @@ npm i
 
 TBC...
 
-# Acknowledgments :clap:
+## Acknowledgments :clap:
 
 - [Node.js and Chatkit JavaScript tutorial: Build a command-line chat app by freeCodeCamp.org](https://www.youtube.com/watch?v=VT674-wB6-Q)
 - [Build a command line chat application using nodejs and pusher chatkit by Rajitha Gunathilake](https://medium.com/@rajithagunathilake/build-a-command-line-chat-application-using-nodejs-and-pusher-chatkit-a80ddd847acb)
