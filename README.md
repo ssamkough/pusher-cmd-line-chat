@@ -18,6 +18,10 @@ Clone project and install packages:
 npm i
 ```
 
+### API Setup
+
+[chatkit-setup]
+
 ## Demo :rocket:
 
 TBC...
